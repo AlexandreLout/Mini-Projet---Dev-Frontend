@@ -1,0 +1,107 @@
+@font-face {
+	font-family: "Karla";
+	src: url('../fonts/Karla-Regular.ttf') format("truetype");
+}
+
+* {
+    box-sizing: border-box;
+}
+
+html, body {   
+    margin: 0;
+    font-family: "Karla";
+    --underline-color: #ffcd1a;
+}
+
+.center {
+    text-align: center;
+}
+
+.left {
+    text-align: left;
+}
+
+.right {
+    text-align: right;
+}
+
+.underline {
+    text-decoration: underline var(--underline-color);
+}
+
+header {
+    height: 132px;
+    padding: 45px 82px;
+}
+
+nav a, a:visited, a:focus {
+    padding: 0 40px;
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+#logo {
+    float: left;
+    font-size: 28px;
+}
+
+#nav {
+    float: right;
+}
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    display: inline;
+}
+
+.banner {
+    height: 862px;
+    font-size: 22px;
+    text-align: center;
+}
+
+#banner {
+    top: 50%;
+}
+
+.portofolio {
+    background-color: black;
+    height: 929px;
+    padding: 172px 300px 200px 300px;
+    font-size: 22px;
+    color: white;
+    overflow: hidden;
+}
+
+.portofolio #container img {
+    padding: 10px;
+    width: 100%;
+}
+
+.slider {
+    height: 768px;
+}
+
+.textfromslide {
+    position: absolute;
+    background-color: white;
+    width: 500px;
+    height: 400px;
+    right: 5%;
+    top: 2150px;
+}
+
+.text_infinite {
+    background-color: #ffcd1a;
+    height: 90px;
+    padding: 20px; 
+    font-size: 38px;
+    text-align: center;
+    font-weight: bold;
+    color: white;
+}
