@@ -27,3 +27,5 @@ Text Infinite
 Version mobile : Responsive non effectué 
 
 Popup de contact : Non effectué pour non connaissance du Backend
+
+Dans la documentation a été mentionné que le projet devais se faire en 7h, du coup j'ai envoyé environ ce que j'ai fais dans le laps de temps avec mes connaissance restante.
