@@ -28,4 +28,6 @@ Version mobile : Responsive non effectué
 
 Popup de contact : Non effectué pour non connaissance du Backend
 
+Pour les dimension j'ai utilisé le fichier Photoshop.
+
 Dans la documentation a été mentionné que le projet devais se faire en 7h, du coup j'ai envoyé environ ce que j'ai fais dans le laps de temps avec mes connaissances restantes.
